@@ -1,0 +1,7 @@
+name:git_testFunc
+func
+git
+src:
+  () => do
+    readAll(point)
+  end
