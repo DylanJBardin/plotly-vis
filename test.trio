@@ -3,5 +3,5 @@ func
 git
 src:
   () => do
-    readAll(point and site and unit=="kWh" and siteMeter)
+    readAll(point and unit=="kWh" and siteMeter)
   end
