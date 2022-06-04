@@ -3,5 +3,5 @@ func
 git
 src:
   () => do
-    readAll(point)
+    readAll(point and equip)
   end
